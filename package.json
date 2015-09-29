@@ -1,0 +1,22 @@
+{
+  "name": "img2rgb",
+  "version": "0.0.1",
+  "description": "convenient module for converting any image to RGB format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denghongcai/node-img2rgb.git"
+  },
+  "author": "Hongcai Deng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/denghongcai/node-img2rgb/issues"
+  },
+  "homepage": "https://github.com/denghongcai/node-img2rgb#readme",
+  "dependencies": {
+    "pngparse": "^2.0.1"
+  }
+}
