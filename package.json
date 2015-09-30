@@ -1,6 +1,6 @@
 {
   "name": "img2rgb",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "convenient module for converting any image to RGB format",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/denghongcai/node-img2rgb#readme",
   "dependencies": {
-    "pngparse": "^2.0.1"
+    "get-pixels": "^3.2.3",
+    "mmmagic": "^0.4.1"
   }
 }
