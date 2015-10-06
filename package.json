@@ -1,6 +1,6 @@
 {
   "name": "img2rgb",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "convenient module for converting any image to RGB format",
   "main": "index.js",
   "scripts": {
